@@ -5,5 +5,5 @@ export function functionTwo(input) {
 
 export function function2(inputArray) {
   const output = inputArray[0];
-  return;
+  return output;
 }
