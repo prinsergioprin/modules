@@ -12,3 +12,5 @@ const outputTwo = function2(array);
 console.log(output1);
 console.log(output2);
 console.log(outputTwo);
+
+console.log("Hello World!");
